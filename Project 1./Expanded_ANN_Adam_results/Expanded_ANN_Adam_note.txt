@@ -1,0 +1,1 @@
+Each _.xlsx file contains training and testing results for the Expanded ANN+Adam optimizer configurations . The _number indicates the training set size the creation of heatmaps is done by importing the results from these files. The folder name represents each configuration results. The names are for code simplicity during creating heatmaps. 
