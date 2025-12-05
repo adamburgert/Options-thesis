@@ -1,1 +1,0 @@
-Project 2. ANN PUT options Neuron configuration results and code. To run create two folders :  training results and testing results, Copy the Dataset files into the working folder. 
