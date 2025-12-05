@@ -1,1 +1,0 @@
-MLP rolling volatility configuration results train and test with 8 layers and 3600 Neurons , Adam /SGD optimizer, without volatility, 3d, 9d, 14d, 21d, 30d,60d, 90d. To run create two folders - training results and testing results. Copy the Datasets in to the working  folder.
